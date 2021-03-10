@@ -8,6 +8,7 @@
 $(document).ready(function () {
     //https://rapidapi.com/yuananf/api/instagram28?endpoint=apiendpoint_98d05d19-e64a-411d-8ed5-413627593bb5
     //https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
+    //https://instafeedjs.com/#/
     var  settings = {
 	"async": true,
 	"crossDomain": true,
