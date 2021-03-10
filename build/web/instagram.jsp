@@ -25,14 +25,16 @@
         <script src="js/alert/sweetalert.min.js"></script>
         <link rel="stylesheet" href="css/alert/sweetalert.css">
         <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-        
+        <link href="css/rs/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
+        <script src="vendor/datatables/jquery.dataTables.min.js" type="text/javascript"></script>
         <title>JSP Page</title>
     </head>
     <body>
         <h1>Instagram</h1>
-        <p id="p_instagram"></p>
+        <p id="p_status"></p>
+        <p id="p_end_cursor"></p>
         
-        
+        <table id="tb_facebook_likes" class="display" width="100%"></table>
         
     </body>
 </html>

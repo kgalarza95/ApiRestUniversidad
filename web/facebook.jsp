@@ -53,14 +53,5 @@
         <p id="like"></p>
 
         <table id="tb_facebook_likes" class="display" width="100%"></table>
-<!--        <table id="example" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>id</th>
-                <th>created_time</th>
-            </tr>
-        </thead>
-    </table>-->
     </body>
 </html>
